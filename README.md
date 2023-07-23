@@ -1,4 +1,4 @@
-# VS_code
+# VERILOG
 
 andgate.v - and gate verilog code
 andgate-tb - and gate verilog testbench code
