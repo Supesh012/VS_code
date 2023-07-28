@@ -1,5 +1,5 @@
 module notgate (a,y);
 input  a;
 output y;
-assign y = !a;
+assign y = ~a;
 endmodule  
